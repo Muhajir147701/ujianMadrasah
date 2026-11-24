@@ -1,0 +1,6 @@
+No,Bacaan,Soal,JawabanA,JawabanB,JawabanC,JawabanD,JawabanE,JenisSoal,JawabanBenar,KolomKiri,KolomKanan
+1,,"Contoh Pilihan Ganda 4 opsi","A1","B1","C1","D1",,pilihanGanda,A,,
+2,,"Contoh Pilihan Ganda 5 opsi","A1","B1","C1","D1","E1",pilihanGanda5Opsi,B,,
+3,,"Contoh Pilihan Ganda Kompleks","A1","B1","C1","D1","E1",pilihanGandaKompleks,"A;C",,
+4,,"Contoh Menjodohkan","","kiri1;kiri2","kanan1;kanan2",,,menjodohkan,,"kiri1;kiri2","kanan1;kanan2"
+5,,"Contoh Jawaban Singkat","","","","","",jawabanSingkat,Jawaban singkat contoh,,
